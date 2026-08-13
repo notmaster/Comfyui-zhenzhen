@@ -1,6 +1,6 @@
 ---
 id: T-20260813-215509-c88e
-status: active
+status: ready
 depends_on: []
 ---
 
@@ -20,7 +20,8 @@ depends_on: []
 - [x] 应用 Rules-mini-v1.2.1 和项目专属规则。
 - [x] 初始化 `.nm-workflow/`、Markdown 工具和忽略规则。
 - [x] 执行格式化、lint、锁文件和 Git 边界验证。
-- [ ] 提交 Task 改动并合入 `dev`。
+- [x] 提交 Task 改动。
+- [ ] 将 Task 合入 `dev` 并归档。
 - [ ] 修改 Fork 默认分支并清理 `custom`。
 
 ## 验证
