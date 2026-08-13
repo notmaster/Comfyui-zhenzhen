@@ -1,6 +1,6 @@
 ---
 id: T-20260813-215509-c88e
-status: ready
+status: done
 depends_on: []
 ---
 
@@ -21,8 +21,8 @@ depends_on: []
 - [x] 初始化 `.nm-workflow/`、Markdown 工具和忽略规则。
 - [x] 执行格式化、lint、锁文件和 Git 边界验证。
 - [x] 提交 Task 改动。
-- [ ] 将 Task 合入 `dev` 并归档。
-- [ ] 修改 Fork 默认分支并清理 `custom`。
+- [x] 将 Task 合入 `dev` 并归档。
+- [x] 修改 Fork 默认分支并清理 `custom`。
 
 ## 验证
 
